@@ -1,4 +1,4 @@
-module github.com/gsperry2011/citrix-netscaler-exporter
+module github.com/gsperry2011/Citrix-NetScaler-Exporter
 
 go 1.13
 
